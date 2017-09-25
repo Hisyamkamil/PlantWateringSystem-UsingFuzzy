@@ -8,6 +8,7 @@ HARDWARE
 
 
 
+
 ESPectro32 (https://shop.makestro.com/product/espectro32/)
 
 Motor Backpack for ESPectro32 
@@ -20,7 +21,11 @@ Soil Temperature Sensor DS18B20
 
 
 
+
+
+
 Libraries used in this code
+
 https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
 
 https://github.com/PaulStoffregen/OneWire
