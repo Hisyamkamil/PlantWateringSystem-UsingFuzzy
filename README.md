@@ -3,7 +3,10 @@
 
 Plant Watering System using fuzzy logic
 
+
 HARDWARE
+
+
 
 ESPectro32 (https://shop.makestro.com/product/espectro32/)
 
